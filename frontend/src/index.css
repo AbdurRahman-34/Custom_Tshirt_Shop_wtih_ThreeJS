@@ -9,7 +9,8 @@ html {
   font-family: "Inter", sans-serif;
 }
 body{
-  background-color: #ededed;
+  background-image: url(./assets/background.png);
+  background-size: cover;
 }
 @supports (font-variation-settings: normal) {
   html {
